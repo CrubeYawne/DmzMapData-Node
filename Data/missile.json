@@ -1,0 +1,66 @@
+[
+    {
+        "name": "Missile",
+        "location": {
+            "lat": "2126.270", "lng":"2966.667"
+        },
+        "description": "After activating 5 of these missiles, Zaya will be attacked and then access to the bunker will be opened.",
+        "icon": "$icon.missile"
+    },
+    {
+        "name": "Missile",
+        "location": {
+            "lat": "1897.575", "lng":"4226.539"
+        },
+        "description": "After activating 5 of these missiles, Zaya will be attacked and then access to the bunker will be opened.",
+        "icon": "$icon.missile"
+    },
+    {
+        "name": "Missile",
+        "location": {
+            "lat": "2204.638", "lng":"4788.684"
+        },
+        "description": "After activating 5 of these missiles, Zaya will be attacked and then access to the bunker will be opened.",
+        "icon": "$icon.missile"
+    },
+    {
+        "name": "Missile",
+        "location": {
+            "lat": "4130.537", "lng":"5116.986"
+        },
+        "description": "After activating 5 of these missiles, Zaya will be attacked and then access to the bunker will be opened.",
+        "icon": "$icon.missile"
+    },
+    {
+        "name": "Missile",
+        "location": {
+            "lat": "3281.616", "lng":"2350.703"
+        },
+        "description": "After activating 5 of these missiles, Zaya will be attacked and then access to the bunker will be opened.",
+        "icon": "$icon.missile"
+    },
+    {
+        "name": "Missile",
+        "location": {
+            "lat": "2953.864", "lng":"5150.456"
+        },
+        "description": "After activating 5 of these missiles, Zaya will be attacked and then access to the bunker will be opened.",
+        "icon": "$icon.missile"
+    },
+    {
+        "name": "Missile",
+        "location": {
+            "lat": "4683.593", "lng":"3614.792"
+        },
+        "description": "After activating 5 of these missiles, Zaya will be attacked and then access to the bunker will be opened.",
+        "icon": "$icon.missile"
+    },
+    {
+        "name": "Missile",
+        "location": {
+            "lat": "4452.679", "lng":"2700.373"
+        },
+        "description": "After activating 5 of these missiles, Zaya will be attacked and then access to the bunker will be opened.",
+        "icon": "$icon.missile"
+    }
+]

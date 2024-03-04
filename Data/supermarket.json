@@ -1,0 +1,74 @@
+[
+    {
+        "name": "Supermarket",
+        "location" : {
+            "lat": "3720.928", "lng":"5891.267"
+        },
+        "sector": "G5",
+        "description": "A small supermarket where you can find things like: game consoles, comic books, gun oil and other stuff.",
+        "icon": "$icon.supermarket"
+    },
+    {
+        "name": "Supermarket",
+        "location" : {
+            "lat": "3792.406", "lng":"5853.903"
+        },
+        "sector": "G5",
+        "description": "A small supermarket where you can find things like: game consoles, comic books, gun oil and other stuff.",
+        "icon": "$icon.supermarket"
+    },
+    {
+        "name": "Supermarket",
+        "location" : {
+            "lat": "5744.520", "lng":"4215.438"
+        },
+        "sector": "G5",
+        "description": "A small supermarket where you can find things like: game consoles, comic books, gun oil and other stuff.",
+        "icon": "$icon.supermarket"
+    },
+    {
+        "name": "Supermarket",
+        "location" : {
+            "lat": "2818.090", "lng":"2713.442"
+        },
+        "sector": "G5",
+        "description": "A small supermarket where you can find things like: game consoles, comic books, gun oil and other stuff.",
+        "icon": "$icon.supermarket"
+    },
+    {
+        "name": "Supermarket",
+        "location" : {
+            "lat": "3193.395", "lng":"5525.543"
+        },
+        "sector": "G5",
+        "description": "A small supermarket where you can find things like: game consoles, comic books, gun oil and other stuff.",
+        "icon": "$icon.supermarket"
+    },
+    {
+        "name": "Supermarket",
+        "location" : {
+            "lat": "2544.787", "lng":"3064.628"
+        },
+        "sector": "G5",
+        "description": "A small supermarket where you can find things like: game consoles, comic books, gun oil and other stuff.",
+        "icon": "$icon.supermarket"
+    },
+    {
+        "name": "Supermarket",
+        "location" : {
+            "lat": "1886.862", "lng":"3800.529"
+        },
+        "sector": "G5",
+        "description": "A small supermarket where you can find things like: game consoles, comic books, gun oil and other stuff.",
+        "icon": "$icon.supermarket"
+    },
+    {
+        "name": "Supermarket",
+        "location" : {
+            "lat": "1613.098", "lng":"2437.791"
+        },
+        "sector": "G5",
+        "description": "A small supermarket where you can find things like: game consoles, comic books, gun oil and other stuff.",
+        "icon": "$icon.supermarket"
+    }
+]

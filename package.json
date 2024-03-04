@@ -1,0 +1,10 @@
+{
+  "name": "DMZ Data Visualizer",
+  "version": "1.0.0",
+  "scripts": {
+    "start" : "node almazdata.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}

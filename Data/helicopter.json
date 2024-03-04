@@ -1,0 +1,26 @@
+[
+    {
+		"name": "Cargo Helicopter",
+		"location": {
+			"lat": "2094.781", "lng": "5433.356"
+		},
+		"description": "You can use this helicopter to travel around the map or exfil. Be sure to refuel with special fuel.",
+		"icon": "$icon.helicopter"
+	},
+    {
+		"name": "Cargo Helicopter",
+		"location": {
+			"lat": "6415.635", "lng":"3319.840"
+		},
+		"description": "You can use this helicopter to travel around the map or exfil. Be sure to refuel with special fuel.",
+		"icon": "$icon.helicopter"
+	},
+    {
+		"name": "Cargo Helicopter",
+		"location": {
+			"lat": "3305.867", "lng":"3766.414"
+		},
+		"description": "You can use this helicopter to travel around the map or exfil. Be sure to refuel with special fuel.",
+		"icon": "$icon.helicopter"
+	}
+]

@@ -1,0 +1,82 @@
+[
+    {
+        "name": "Electronic",
+        "sector": "G3",
+        "location": {
+            "lat": "2920.860", "lng":"2251.564"
+        },
+        "description": "Place with a lot of electronic items. Enctrypted or simple: HDD, USB, GPU.",
+        "icon": "icon_deadDrops",
+        "alternative_icon": "$icon.electronic"
+    },
+    {
+        "name": "Electronic",
+        "sector": "G3",
+        "location": {
+            "lat": "3500.808", "lng":"1795.078"
+        },
+        "description": "Place with a lot of electronic items. Enctrypted or simple: HDD, USB, GPU.",
+        "icon": "icon_deadDrops",
+        "alternative_icon": "$icon.electronic"
+    },
+    {
+        "name": "Electronic",
+        "sector": "G3",
+        "location": {
+            "lat": "5213.897", "lng":"5079.702"
+        },
+        "description": "Place with a lot of electronic items. Enctrypted or simple: HDD, USB, GPU.",
+        "icon": "icon_deadDrops",
+        "alternative_icon": "$icon.electronic"
+    },
+    {
+        "name": "Electronic",
+        "sector": "G3",
+        "location": {
+            "lat": "5045.842", "lng":"4297.550"
+        },
+        "description": "Place with a lot of electronic items. Enctrypted or simple: HDD, USB, GPU.",
+        "icon": "icon_deadDrops",
+        "alternative_icon": "$icon.electronic"
+    },
+    {
+        "name": "Electronic",
+        "sector": "G3",
+        "location": {
+            "lat": "4973.066", "lng":"4166.925"
+        },
+        "description": "Place with a lot of electronic items. Enctrypted or simple: HDD, USB, GPU.",
+        "icon": "icon_deadDrops",
+        "alternative_icon": "$icon.electronic"
+    },
+    {
+        "name": "Electronic",
+        "sector": "G3",
+        "location": {
+            "lat": "3166.168", "lng":"5653.286"
+        },
+        "description": "Place with a lot of electronic items. Enctrypted or simple: HDD, USB, GPU.",
+        "icon": "icon_deadDrops",
+        "alternative_icon": "$icon.electronic"
+    },
+    {
+        "name": "Electronic",
+        "sector": "G3",
+        "location": {
+            "lat": "4715.782", "lng":"5592.133"
+        },
+        "description": "Place with a lot of electronic items. Enctrypted or simple: HDD, USB, GPU.",
+        "icon": "icon_deadDrops",
+        "alternative_icon": "$icon.electronic"
+    },
+    {
+        "name": "Electronic",
+        "sector": "G3",
+        "location": {
+            "lat": "3778.000", "lng":"5860.000"
+        },
+        "description": "Place with a lot of electronic items. Enctrypted or simple: HDD, USB, GPU.",
+        "icon": "icon_deadDrops",
+        "alternative_icon": "$icon.electronic"
+    }
+]

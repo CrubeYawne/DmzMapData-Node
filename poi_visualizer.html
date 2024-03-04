@@ -1,0 +1,117 @@
+<html>
+	<head>
+		<style>
+			.mapContainer
+			{
+				max-width:800px; 
+				width:800px; 
+				border: 1px solid red
+			}
+			
+			.mapContainer img
+			{
+				display:block;
+				width: 100%;
+				height:auto;
+				
+			}
+			
+			.poiBlock
+			{
+				width:10px;
+				height:10px;
+				position:absolute;
+				background-color:red;
+			}
+		</style>
+		
+		<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
+		
+		<script>
+			
+			let heldItems = [];
+		
+			function PullData()
+			{
+				$.get( "http://localhost:8080/data", function( data ) {	
+
+					for(let i=0; i != heldItems.length; ++i)
+						heldItems[i].remove();
+
+					heldItems = [];
+					
+					//alert( data );
+					
+					let jsonData = JSON.parse(data);
+					
+					for(let i=0; i < jsonData.length; ++i)
+					{
+						//DrawItem( jsonData[i].location.lat, jsonData[i].location.lng );
+						DrawItem( jsonData[i].location.lng, jsonData[i].location.lat );
+					}
+				});
+				
+				
+			}
+			
+			function lerp( a, b, alpha ) {
+				return a + alpha * ( b - a);
+			}
+			
+			function DrawItem(lat,lon)
+			{
+				
+				let map_area = $("#map_area")[0];
+				let minValX = parseInt($("#minValX")[0].value);
+				let maxValX = parseInt($("#maxValX")[0].value);
+				
+				let minValY = parseInt($("#minValY")[0].value);
+				let maxValY = parseInt($("#maxValY")[0].value);
+				
+				let x = (lat - minValX) / maxValX;
+				let y = (lon - minValY) / maxValY;
+				
+				let imageWidth = map_area.offsetWidth;
+				let imageHeight = map_area.offsetHeight;
+			
+				let newItem = document.createElement("div");
+				newItem.classList.add("poiBlock");
+				map_area.prepend(newItem);
+				newItem.style.bottom = (y * imageHeight) + "px";
+				newItem.style.left = (x * imageWidth) + "px";
+				//newItem.onclick = function() { alert(lat + "," + lon); };
+				
+				heldItems.push(newItem);				
+				
+			}
+		</script>
+		
+	</head>
+	<body>
+	
+		<div>
+			Min-X: <input id="minValX" value="50" />
+		</div>
+		
+		<div>
+			Max-X: <input id="maxValX" value="7000" />
+		</div>
+		
+		<div>
+			Min-Y: <input id="minValY" value="1000" />
+		</div>
+		
+		<div>
+			Max-Y: <input id="maxValY" value="6000" />
+		</div>
+	
+		<input type="button" value="load" onclick="PullData()" />
+	
+		<div id="testoutput"></div>
+	
+		<div id="map_area" class="mapContainer">
+			<img src="http://localhost:8080/images/warzone-2-al-mazrah-map-cropped.webp" />
+		</div>
+		
+	</body>
+</html>

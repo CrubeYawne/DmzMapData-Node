@@ -1,0 +1,102 @@
+[
+    {
+        "name": "Food & Drink",
+        "sector": "G3",
+        "location": {
+            "lat": "4909.258", "lng":"4177.237"
+        },
+        "description": "Place with a lot of differents food and bottles of wines: cheap, aged, vintage",
+        "icon": "icon_deadDrops",
+        "alternative_icon": "$icon.drink"
+    },
+    {
+        "name": "Food & Drink",
+        "sector": "G3",
+        "location": {
+            "lat": "5540.535", "lng":"4939.848"
+        },
+        "description": "Place with a lot of differents food and bottles of wines: cheap, aged, vintage",
+        "icon": "icon_deadDrops",
+        "alternative_icon": "$icon.drink"
+    },
+    {
+        "name": "Food & Drink",
+        "sector": "G3",
+        "location": {
+            "lat": "5242.580", "lng":"4898.005"
+        },
+        "description": "Place with a lot of differents food and bottles of wines: cheap, aged, vintage",
+        "icon": "icon_deadDrops",
+        "alternative_icon": "$icon.drink"
+    },
+    {
+        "name": "Food & Drink",
+        "sector": "G3",
+        "location": {
+            "lat": "5245.795", "lng":"4739.382"
+        },
+        "description": "Place with a lot of differents food and bottles of wines: cheap, aged, vintage",
+        "icon": "icon_deadDrops",
+        "alternative_icon": "$icon.drink"
+    },
+    {
+        "name": "Food & Drink",
+        "sector": "G3",
+        "location": {
+            "lat": "2620.326", "lng":"5416.911"
+        },
+        "description": "Place with a lot of differents food and bottles of wines: cheap, aged, vintage",
+        "icon": "icon_deadDrops",
+        "alternative_icon": "$icon.drink"
+    },
+    {
+        "name": "Food & Drink",
+        "sector": "G3",
+        "location": {
+            "lat": "2365.279", "lng":"5726.379"
+        },
+        "description": "Place with a lot of differents food and bottles of wines: cheap, aged, vintage",
+        "icon": "icon_deadDrops",
+        "alternative_icon": "$icon.drink"
+    },
+    {
+        "name": "Food & Drink",
+        "sector": "G3",
+        "location": {
+            "lat": "5456.319", "lng":"4265.869"
+        },
+        "description": "Place with a lot of differents food and bottles of wines: cheap, aged, vintage",
+        "icon": "icon_deadDrops",
+        "alternative_icon": "$icon.drink"
+    },
+    {
+        "name": "Food & Drink",
+        "sector": "G3",
+        "location": {
+            "lat": "5371.844", "lng":"4250.437"
+        },
+        "description": "Place with a lot of differents food and bottles of wines: cheap, aged, vintage",
+        "icon": "icon_deadDrops",
+        "alternative_icon": "$icon.drink"
+    },
+    {
+        "name": "Food & Drink",
+        "sector": "G3",
+        "location": {
+            "lat": "1609.385", "lng":"2648.720"
+        },
+        "description": "Place with a lot of differents food and bottles of wines: cheap, aged, vintage",
+        "icon": "icon_deadDrops",
+        "alternative_icon": "$icon.drink"
+    },
+    {
+        "name": "Food & Drink",
+        "sector": "G3",
+        "location": {
+            "lat": "1677.000", "lng":"3581.000"
+        },
+        "description": "Place with a lot of differents food and bottles of wines: cheap, aged, vintage",
+        "icon": "icon_deadDrops",
+        "alternative_icon": "$icon.drink"
+    }
+]

@@ -1,0 +1,62 @@
+[
+    {
+        "name": "Bank Adal",
+        "location" : {
+            "lat": "2900.000",
+            "lng": "2193.000"
+        },
+        "sector": "C3",
+        "description": null,
+        "icon": "$icon.bank"
+    },
+    {
+        "name": "Bank Adal",
+        "location" : {
+            "lat": "2037.041",
+            "lng": "3995.443"
+        },
+        "sector": "C3",
+        "description": null,
+        "icon": "$icon.bank"
+    },
+    {
+        "name": "Bank Adal",
+        "location" : {
+            "lat": "2766.000",
+            "lng": "5214.000"
+        },
+        "sector": "C3",
+        "description": null,
+        "icon": "$icon.bank"
+    },
+    {
+        "name": "Bank Adal",
+        "location" : {
+            "lat": "5338.729",
+            "lng": "5044.479"
+        },
+        "sector": "C3",
+        "description": null,
+        "icon": "$icon.bank"
+    },
+    {
+        "name": "Bank Adal",
+        "location" : {
+            "lat": "4892.568",
+            "lng": "4338.553"
+        },
+        "sector": "C3",
+        "description": null,
+        "icon": "$icon.bank"
+    },
+    {
+        "name": "Bank Adal",
+        "location" : {
+            "lat": "1693.167",
+            "lng": "2461.085"
+        },
+        "sector": "C3",
+        "description": null,
+        "icon": "$icon.bank"
+    }
+]
